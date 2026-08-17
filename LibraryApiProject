@@ -1,0 +1,9 @@
+One-to-Many & Many-to-One: Linked Authors to Books using foreign keys.
+
+The DTO Pattern: Separated your Database Entities from your JSON payloads, ripping out the @JsonIgnore hack and securing your data.
+
+Validation: Built "guards" using @NotBlank and @Valid to block bad data before it even hits your Service layer.
+
+Pagination: Solved the "10,000 Record Problem" using Pageable, making your API enterprise-ready and safe from memory crashes.
+
+Many-to-Many: Generated a hidden user_books Join Table and successfully checked out a book!
